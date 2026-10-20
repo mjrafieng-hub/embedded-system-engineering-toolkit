@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated reports
+serial_analysis.csv
+Embedded_Toolkit_Report.pdf
+
+# Temporary editor files
+.~lock.*#
+
