@@ -1,5 +1,30 @@
-**Embedded Systems Engineering Toolkit**  
-Video Demo : [https://youtu.be/ubifp5qjpJc](https://youtu.be/ubifp5qjpJc "https://youtu.be/ubifp5qjpJc")  
+# Embedded System Engineering Toolkit 🛠️
+
+> A Python-based CLI tool for embedded systems engineers.
+
+[![YouTube Demo]:[https://youtu.be/ubifp5qjpJc](https://youtu.be/ubifp5qjpJc "https://youtu.be/ubifp5qjpJc")
+
+## 📖 Overview
+A professional tool designed to streamline common embedded systems development tasks, including:
+- **Intel HEX Analysis:** Detailed parsing and validation of firmware files.
+- **Serial Communication:** CRC16 Modbus validation for data integrity.
+- **USART Calculations:** Quick and accurate baud-rate configuration.
+- **Report Generation:** Export analysis results into professional CSV and PDF formats.
+
+## 🚀 Quick Start
+Prerequisites: Python 3.x installed.
+
+# Clone the repository
+git clone https://github.com/mjrafieng-hub/embedded-system-engineering-toolkit.git
+cd embedded-system-engineering-toolkit
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the tool
+python main.py
+
+
 **Description**  
 Embedded Systems Engineering Toolkit is a Python command-line  
    
